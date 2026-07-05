@@ -4,6 +4,6 @@ Curso Superior de Análise e Desenvolvimento de Sistemas — IFPB Campus Monteir
 
 Aluno: Arthur Alves - Matricula: 202515020037
 
-Java 25
+Java 21 ou superior
 
 
